@@ -8,3 +8,9 @@ Currently, the project is suspended for two weeks because of the certification e
 It will continue until the R2 score approaches 1. 
 
 If you have any feedback on this project, you are always welcome.
+
+
+
+
+
+Source of that data [https://www.kaggle.com/competitions/twitter-psychopathy-prediction/data]
