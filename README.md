@@ -1,16 +1,11 @@
 # twitter_psychopath
 
 
-If the [Unable to render code block] warning message appears, you can see it by pasting the url of the file into the link at [ https://nbviewer.org/ ] 
+If you see a [Unable to render code block] warning, you can view the file by pasting its URL into https://nbviewer.org/.
 
-The project is in progress and only has an R2 score of 0.35.
-Currently, the project is suspended for two weeks because of the certification examination.
-It will continue until the R2 score approaches 1. 
+This project is currently in progress, with an R² score of 0.35 so far. It is on hold for two weeks due to a certification exam, but development will resume until the R² score approaches 1.0.
 
-If you have any feedback on this project, you are always welcome.
+Feedback is always welcome!
 
+Data source: https://www.kaggle.com/competitions/twitter-psychopathy-prediction/data
 
-
-
-
-Source of that data [https://www.kaggle.com/competitions/twitter-psychopathy-prediction/data]
