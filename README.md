@@ -40,7 +40,6 @@ Although it’s a relatively unexplored dataset, I am working on building an end
 - Refine feature selection and hyperparameter tuning to push the R² score higher  
 - Automate retraining and evaluation pipelines  
 - Add monitoring (drift detection, data quality checks)  
-- Share insights and write detailed blog posts or tutorials  
 - Open to collaboration — feel free to reach out if interested!  
 
 ---
