@@ -52,3 +52,10 @@ Although it’s a relatively unexplored dataset, I am working on building an end
 
 💡 **Any advice, feedback, or collaboration is always welcome.**  
 Since this dataset isn’t widely used, it sometimes feels like a lonely battle — but I believe there’s a lot of potential to explore together. ✨
+
+
+---
+## ☠️ Error
+
+If a Jupyter Notebook does not display correctly on GitHub and shows the warning **"Unable to render code block"**, you can still view it properly by copying the notebook's URL and pasting it into [https://nbviewer.org/](https://nbviewer.org/).
+
